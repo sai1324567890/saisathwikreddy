@@ -1,0 +1,11 @@
+{
+"input_folder_path"			:"C:\\crenma\\apps\\KV_EDI\\Infolder_edi",
+"output_folder_path"		:"C:\\crenma\\apps\\KV_EDI\\Outfolder_edi",
+"Number_of_days_Increment_and_Decrement" :"",
+"ISA_Sender_ID"			    :"",
+"ISA_Receiver_ID"			:"",
+"GS_Sender_ID"				:"",
+"GS_Receiver_ID"			:"",
+"po_number"                 :""
+}
+ 
